@@ -2,7 +2,7 @@
 
 ## ❓ Why?
 
-For people like [Nauty](https://github.com/vaishnauty) who have too many people to send Testimonial Requests to :')
+For people like [Nauty](https://github.com/nautivaish) who have too many people to send Testimonial Requests to :')
 
 ## 🗒️ How to use?
 
@@ -18,8 +18,8 @@ For people like [Nauty](https://github.com/vaishnauty) who have too many people 
 -   **Clone this repository**
 
     ```
-    git clone _
-    cd _
+    git clone https://github.com/Joe2k/Testimonial-Request-Script.git
+    cd Testimonial-Request-Script
     ```
 
 -   **Installing Dependencies**
