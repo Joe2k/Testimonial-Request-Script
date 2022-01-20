@@ -1,0 +1,11 @@
+{
+  "name": "forever-diary-script",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Joe2k <jonathansamuel2k@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "puppeteer": "^13.1.1"
+  }
+}
