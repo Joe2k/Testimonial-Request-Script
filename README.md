@@ -1,5 +1,7 @@
 # ✍️ Forever Diary Testimonial Request Script
 
+[![Visits Badge](https://badges.pufler.dev/visits/Joe2k/Testimonial-Request-Script?color=red&style=for-the-badge)](https://github.com/Joe2k/Testimonial-Request-Script?color=blue)
+
 ## ❓ Why?
 
 For people like [Nauty](https://github.com/nautivaish) who have too many people to send Testimonial Requests to :')
